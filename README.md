@@ -18,4 +18,4 @@ Do you have a code snippet you wish to share with my audience?
 I'll promote the code snippet on my socials and in SwiftLee Weekly with a mention of your social handle.
 
 ## About the author
-This repository is created by [Antoine van der Lee](https://x.com/twannl), founder of [SwiftLee](https://www.avanderlee.com).
+This repository is created by [Antoine van der Lee](https://x.com/twannl), founder of [SwiftLee](https://www.avanderlee.com), and creator of the [SwiftLee Weekly newsletter](https://www.avanderlee.com/swiftlee-weekly-subscribe/?utm_source=github&utm_medium=readme&utm_campaign=codesnippets).
