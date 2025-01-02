@@ -1,0 +1,1 @@
+![](Issue 253 - Throwing Properties.png)
