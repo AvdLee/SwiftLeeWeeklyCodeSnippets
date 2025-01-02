@@ -1,1 +1,1 @@
-![](Issue 253 - Throwing Properties.png)
+![Throwing Properties](Issue 253 - Throwing Properties.png)
