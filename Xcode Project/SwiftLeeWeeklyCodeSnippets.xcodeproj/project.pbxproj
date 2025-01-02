@@ -24,6 +24,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		844595032D26A6B900E73913 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		84F22A2D2D26A05600DBDC11 /* SwiftLeeWeeklyCodeSnippets.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftLeeWeeklyCodeSnippets.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84F22A3E2D26A05700DBDC11 /* SwiftLeeWeeklyCodeSnippetsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftLeeWeeklyCodeSnippetsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84F22A482D26A05700DBDC11 /* SwiftLeeWeeklyCodeSnippetsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftLeeWeeklyCodeSnippetsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -75,6 +76,7 @@
 		84F22A242D26A05600DBDC11 = {
 			isa = PBXGroup;
 			children = (
+				844595032D26A6B900E73913 /* README.md */,
 				84F22A2F2D26A05600DBDC11 /* SwiftLeeWeeklyCodeSnippets */,
 				84F22A412D26A05700DBDC11 /* SwiftLeeWeeklyCodeSnippetsTests */,
 				84F22A4B2D26A05700DBDC11 /* SwiftLeeWeeklyCodeSnippetsUITests */,
