@@ -30,9 +30,23 @@
 		84F22A482D26A05700DBDC11 /* SwiftLeeWeeklyCodeSnippetsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftLeeWeeklyCodeSnippetsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		843762D82D351657008DCED1 /* Exceptions for "SwiftLeeWeeklyCodeSnippets" folder in "SwiftLeeWeeklyCodeSnippets" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"Snippets/Issue 253 - Throwing Properties/README.md",
+				"Snippets/Issue 254 - @discardableResult/README.md",
+			);
+			target = 84F22A2C2D26A05600DBDC11 /* SwiftLeeWeeklyCodeSnippets */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		84F22A2F2D26A05600DBDC11 /* SwiftLeeWeeklyCodeSnippets */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				843762D82D351657008DCED1 /* Exceptions for "SwiftLeeWeeklyCodeSnippets" folder in "SwiftLeeWeeklyCodeSnippets" target */,
+			);
 			path = SwiftLeeWeeklyCodeSnippets;
 			sourceTree = "<group>";
 		};

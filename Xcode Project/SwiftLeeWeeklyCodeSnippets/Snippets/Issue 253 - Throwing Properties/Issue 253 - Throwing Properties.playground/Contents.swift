@@ -1,10 +1,10 @@
 /*:
- # SwiftLee Weekly - Issue 253 Code Snippet
- ## Throwing Properties
+ ### SwiftLee Weekly - Issue 253 Code Snippet
+ # Throwing Properties in Swift
  
  - Try this snippet at [github.com/AvdLee/SwiftLeeWeeklyCodeSnippets](https://github.com/AvdLee/SwiftLeeWeeklyCodeSnippets)
  - Read more about throwing properties: [avanderlee.com/swift/throwing-properties](https://www.avanderlee.com/swift/throwing-properties/)
- - Receive a weekly Swift code snippet: [swiftlee-weekly.com](https://www.swiftlee-weekly.com)
+ - Receive a weekly Swift code snippet: [join.swiftlee-weekly.com](https://join.swiftlee-weekly.com)
  */
 import Foundation
 
