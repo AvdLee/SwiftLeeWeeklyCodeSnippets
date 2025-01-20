@@ -8,6 +8,7 @@ Here's an overview of all snippets from earlier SwiftLee Weekly issues:
 
 - [Issue 253 - Throwing Properties](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20253%20-%20Throwing%20Properties)
 - [Issue 254 - @discardableResult](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20254%20-%20@discardableResult)
+- [Issue 255 - Nonmutating](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20255%20-%20Nonmutating)
 
 ## Suggest a code snippet
 Do you have a code snippet you wish to share with my audience?
