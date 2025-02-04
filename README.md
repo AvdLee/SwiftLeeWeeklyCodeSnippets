@@ -10,6 +10,7 @@ Here's an overview of all snippets from earlier SwiftLee Weekly issues:
 - [Issue 254 - @discardableResult](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20254%20-%20@discardableResult)
 - [Issue 255 - Nonmutating](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20255%20-%20Nonmutating)
 - [Issue 256 - Defer](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20256%20-%20Defer)
+- [Issue 257 - Static Member Lookup](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20257%20-%20Static%20Member%20Lookup)
 
 ## Suggest a code snippet
 Do you have a code snippet you wish to share with my audience?
