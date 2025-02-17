@@ -12,6 +12,7 @@ Here's an overview of all snippets from earlier SwiftLee Weekly issues:
 - [Issue 256 - Defer](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20256%20-%20Defer)
 - [Issue 257 - Static Member Lookup](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20257%20-%20Static%20Member%20Lookup)
 - [Issue 258 - Typealias](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20258%20-%20Typealias)
+- [Issue 259 - String Interpolation Optional](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20259%20-%20String%20Interpolation%20Optional)
 
 ## Suggest a code snippet
 Do you have a code snippet you wish to share with my audience?
