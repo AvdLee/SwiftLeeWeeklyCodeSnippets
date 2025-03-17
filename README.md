@@ -13,6 +13,10 @@ Here's an overview of all snippets from earlier SwiftLee Weekly issues:
 - [Issue 257 - Static Member Lookup](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20257%20-%20Static%20Member%20Lookup)
 - [Issue 258 - Typealias](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20258%20-%20Typealias)
 - [Issue 259 - String Interpolation Optional](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20259%20-%20String%20Interpolation%20Optional)
+- [Issue 260 - Expressible URL Literal](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20260%20-%20Expressible%20URL%20Literal)
+- [Issue 262 - Boolean Toggle](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20262%20-%20Boolean%20Toggle)
+- [Issue 263 - Current Task Priority](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20262%20-%20Current%20Task%20Priority)
+
 
 ## Suggest a code snippet
 Do you have a code snippet you wish to share with my audience?
