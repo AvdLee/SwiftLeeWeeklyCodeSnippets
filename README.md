@@ -15,8 +15,8 @@ Here's an overview of all snippets from earlier SwiftLee Weekly issues:
 - [Issue 259 - String Interpolation Optional](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20259%20-%20String%20Interpolation%20Optional)
 - [Issue 260 - Expressible URL Literal](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20260%20-%20Expressible%20URL%20Literal)
 - [Issue 262 - Boolean Toggle](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20262%20-%20Boolean%20Toggle)
-- [Issue 263 - Current Task Priority](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20262%20-%20Current%20Task%20Priority)
-
+- [Issue 263 - Current Task Priority](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20263%20-%20Current%20Task%20Priority)
+- [Issue 264 - Region Based Sendable](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20264%20-%20Region%20Based%20Sendable)
 
 ## Suggest a code snippet
 Do you have a code snippet you wish to share with my audience?
