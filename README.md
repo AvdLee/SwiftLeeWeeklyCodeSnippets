@@ -17,6 +17,9 @@ Here's an overview of all snippets from earlier SwiftLee Weekly issues:
 - [Issue 262 - Boolean Toggle](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20262%20-%20Boolean%20Toggle)
 - [Issue 263 - Current Task Priority](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20263%20-%20Current%20Task%20Priority)
 - [Issue 264 - Region Based Sendable](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20264%20-%20Region%20Based%20Sendable)
+- [Issue 266 - Where usage](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20266%20-%20Where)
+- [Issue 267 - Reduce](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20267%20-%20Reduce)
+- [Issue 268 - Async Isolation](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20268%20-%20Async%20Isolation)
 
 ## Suggest a code snippet
 Do you have a code snippet you wish to share with my audience?
