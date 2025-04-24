@@ -20,6 +20,7 @@ Here's an overview of all snippets from earlier SwiftLee Weekly issues:
 - [Issue 266 - Where usage](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20266%20-%20Where)
 - [Issue 267 - Reduce](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20267%20-%20Reduce)
 - [Issue 268 - Async Isolation](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20268%20-%20Async%20Isolation)
+- [Issue 269 - Looping](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20269%20-%20Looping)
 
 ## Suggest a code snippet
 Do you have a code snippet you wish to share with my audience?
