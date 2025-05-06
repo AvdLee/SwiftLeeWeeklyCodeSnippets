@@ -1,0 +1,1 @@
+![Issue 270 - Lazy Variables](Issue%20270%20-%20Lazy%20Variables.png) 
