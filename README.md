@@ -23,6 +23,7 @@ Here's an overview of all snippets from earlier SwiftLee Weekly issues:
 - [Issue 269 - Looping](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20269%20-%20Looping)
 - [Issue 270 - Lazy Variables](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20270%20-%20Lazy%20Variables)
 - [Issue 272 - Constant binding](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20272%20-%20Constant%20binding)
+- [Issue 273 - Fallthrough](/Xcode%20Project/SwiftLeeWeeklyCodeSnippets/Snippets/Issue%20273%20-%20Fallthrough)
 
 ## Suggest a code snippet
 Do you have a code snippet you wish to share with my audience?
