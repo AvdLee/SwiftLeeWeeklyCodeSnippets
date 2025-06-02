@@ -1,0 +1,1 @@
+![Issue 272 - Constant binding](Issue%20272%20-%20Constant%20binding.png) 
